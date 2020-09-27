@@ -1,0 +1,29 @@
+.name {
+    font-size: 18px;
+    font-weight: 600;
+}
+
+.Contact {
+    margin: 6px;
+}
+
+.name-first {
+    display: flex;
+    justify-content: space-between;
+}
+
+img {
+    height: 25px;
+    width: 25px;
+}
+
+.search-panel {
+    display: block;
+    margin: 0 auto;
+    width: 280px;
+    height: 20px;
+    margin-bottom: 5px;
+    border: 1px solid;
+    border-radius: 2px;
+    background-color: #dfe7f2;
+}

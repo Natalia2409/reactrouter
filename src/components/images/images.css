@@ -1,0 +1,18 @@
+.general {
+    padding-left: 300px;
+}
+
+.im {
+    text-align: center;
+    width: 700px;
+    border: 1px solid black;
+    padding: 30px 0;
+    margin-bottom: 10px;
+    border-radius: 10px;
+}
+
+.im img {
+    width: 640px;
+    height: 370px;
+    border-radius: 5px;
+}

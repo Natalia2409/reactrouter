@@ -1,0 +1,22 @@
+.wrapper {
+    width: 350px;
+    margin: 0 auto;
+    border: 1px solid #000;
+    padding: 50px 0;
+    border-radius: 10px;
+}
+
+.wrapper img {
+    width: 300px;
+    height: 300px;
+    display: block;
+    margin: 0 auto;
+    border-radius: 5px;
+}
+
+.text {
+    margin-top: 20px;
+    font-size: 30px;
+    text-align: center;
+    font-family: 'Courier Prime', monospace;
+}

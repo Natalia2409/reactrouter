@@ -1,0 +1,48 @@
+#block {
+  margin: 0 auto;
+  margin: 20px;
+  padding: 20px;
+  padding-left: 25px;
+  display: flex;
+  background-color: #38404d;
+  min-height: 300px;
+  width: 600px;
+  border-radius: 10px;
+}
+
+.over {
+  padding-left: 300px;
+}
+
+#photo {
+  width: 70px;
+  height: 70px;
+  border-radius: 100%;
+}
+
+#main {
+  margin-left: 25px;
+}
+
+#image {
+  margin-top: 10px;
+  height: 210px;
+  width: 450px;
+  border-radius: 10px;
+}
+
+#text {
+  margin-top: 5px;
+  color: white;
+}
+
+#header {
+  color: rgba(255, 255, 255, 0.5);
+  font-size: 16px;
+  flex-wrap: wrap;
+}
+
+span {
+  color: white;
+  font-size: 19px;
+}
