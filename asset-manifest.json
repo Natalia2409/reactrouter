@@ -1,0 +1,28 @@
+{
+  "files": {
+    "main.css": "/reactrouter/static/css/main.24cb1bae.chunk.css",
+    "main.js": "/reactrouter/static/js/main.8c75fa15.chunk.js",
+    "main.js.map": "/reactrouter/static/js/main.8c75fa15.chunk.js.map",
+    "runtime-main.js": "/reactrouter/static/js/runtime-main.c98c4bf1.js",
+    "runtime-main.js.map": "/reactrouter/static/js/runtime-main.c98c4bf1.js.map",
+    "static/js/2.d0448a7f.chunk.js": "/reactrouter/static/js/2.d0448a7f.chunk.js",
+    "static/js/2.d0448a7f.chunk.js.map": "/reactrouter/static/js/2.d0448a7f.chunk.js.map",
+    "index.html": "/reactrouter/index.html",
+    "precache-manifest.7ce86ee24929a005ccde3d180f79bb4a.js": "/reactrouter/precache-manifest.7ce86ee24929a005ccde3d180f79bb4a.js",
+    "service-worker.js": "/reactrouter/service-worker.js",
+    "static/css/main.24cb1bae.chunk.css.map": "/reactrouter/static/css/main.24cb1bae.chunk.css.map",
+    "static/js/2.d0448a7f.chunk.js.LICENSE.txt": "/reactrouter/static/js/2.d0448a7f.chunk.js.LICENSE.txt",
+    "static/media/1.jpg": "/reactrouter/static/media/1.a35cca28.jpg",
+    "static/media/2.jpg": "/reactrouter/static/media/2.0add0b83.jpg",
+    "static/media/3.jpg": "/reactrouter/static/media/3.4c6d4458.jpg",
+    "static/media/female-icon.jpg": "/reactrouter/static/media/female-icon.321b22fe.jpg",
+    "static/media/male-icon.jpg": "/reactrouter/static/media/male-icon.592396bc.jpg",
+    "static/media/unknown.png": "/reactrouter/static/media/unknown.ab7f36c5.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.c98c4bf1.js",
+    "static/js/2.d0448a7f.chunk.js",
+    "static/css/main.24cb1bae.chunk.css",
+    "static/js/main.8c75fa15.chunk.js"
+  ]
+}
